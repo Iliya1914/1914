@@ -1,5 +1,5 @@
 print('hello world') 
 print('hello world') 
 print('hello world') 
-print('hello world') 
-print('hello world') 
+print('iliya is great') 
+print('text!') 
